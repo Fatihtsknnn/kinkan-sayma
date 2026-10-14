@@ -1,5 +1,9 @@
 # Kinkan Sayma 🍊
 
+## 🔴 Canlı Demo
+**[kinkan-sayma.onrender.com/docs](https://kinkan-sayma.onrender.com/docs)** — fotoğraf yükle, modeli canlı dene!
+> Not: Ücretsiz sunucu boştayken uyur, ilk istek ~50 sn sürebilir.
+
 Görüntüdeki **kinkan (kumquat)** meyvelerini YOLOv8 ile tespit edip **sayan** uçtan uca bir bilgisayarlı görü projesi. Model sıfırdan eğitildi ve FastAPI ile REST servisi olarak sunuldu.
 
 ## 🎯 Ne Yapar?
